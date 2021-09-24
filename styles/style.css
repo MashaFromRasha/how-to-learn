@@ -102,8 +102,8 @@
 }
 
 .two-columns__main-text {
-  width: 80%; 
-  min-width: 784px
+  width: 80%;
+  min-width: 784px;
 }
 
 .two-columns__paragraph {
@@ -155,7 +155,7 @@
   width: 1100px;
   display: flex;
   margin: auto;
-  justify-content: space-between; 
+  justify-content: space-between;
   flex-wrap: wrap; /*перенос элементов на новую строку*/
   z-index: 1;
 }
@@ -208,7 +208,7 @@
 .feynman__subtitle {
   font-size: 36px;
   font-weight: 400;
-  line-height: 51px;  
+  line-height: 51px;
   text-align: center;
   margin: 70px 0 0;
 }
@@ -216,12 +216,12 @@
 .feynman__link {
   font-size: 36px;
   font-weight: 400;
-  line-height: 51px;  
+  line-height: 51px;
   color: #2f80ed;
   text-decoration: none;
   position: absolute;
   right: 48px;
-  top: 50%
+  top: 50%;
 }
 
 /*KAUFMAN*/
