@@ -1,0 +1,7 @@
+.video__iframes {
+  display: flex;
+  position: relative; /*относительное позиционирование смещает элемент на 50px вниз,
+  поэтому видео "налезают" на фон следующего элемента на 50px*/ 
+  justify-content: center;
+  top: 50px;
+}
